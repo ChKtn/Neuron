@@ -1,0 +1,7 @@
+C:\Users\Cherr\source\repos\Neuron\Neuron\bin\Debug\Neuron.exe.config
+C:\Users\Cherr\source\repos\Neuron\Neuron\bin\Debug\Neuron.exe
+C:\Users\Cherr\source\repos\Neuron\Neuron\bin\Debug\Neuron.pdb
+C:\Users\Cherr\source\repos\Neuron\Neuron\obj\Debug\Neuron.csprojAssemblyReference.cache
+C:\Users\Cherr\source\repos\Neuron\Neuron\obj\Debug\Neuron.csproj.CoreCompileInputs.cache
+C:\Users\Cherr\source\repos\Neuron\Neuron\obj\Debug\Neuron.exe
+C:\Users\Cherr\source\repos\Neuron\Neuron\obj\Debug\Neuron.pdb
